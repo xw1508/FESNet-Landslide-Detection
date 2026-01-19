@@ -13,6 +13,8 @@ Link: https://pan.baidu.com/s/1fxCbA5iEF6RECYljvunE0Q?pwd=e2fy Extraction code: 
 
 LandSlide4Sense dataset address: https://aistudio.baidu.com/datasetdetail/153306 Original address: https://www.iarai.ac.at/landslide4sense/challenge/
 
+Bijie Landslide Dataset Address: https://gpcv.whu.edu.cn/data/Bijie_pages.html
+
 The code and related resources are not publicly available at the moment.
 We will release the complete source code, pretrained models, and usage instructions once the paper is accepted.
 
