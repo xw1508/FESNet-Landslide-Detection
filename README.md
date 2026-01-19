@@ -11,6 +11,8 @@ This article mainly refers to the YOLO architecture https://github.com/ultralyti
 In addition, we have provided some original images for reference and a file shared through cloud storage: Mine Landslide UAV Dataset
 Link: https://pan.baidu.com/s/1fxCbA5iEF6RECYljvunE0Q?pwd=e2fy Extraction code: e2fy
 
+LandSlide4Sense dataset address: https://aistudio.baidu.com/datasetdetail/153306 Original address: https://www.iarai.ac.at/landslide4sense/challenge/
+
 The code and related resources are not publicly available at the moment.
 We will release the complete source code, pretrained models, and usage instructions once the paper is accepted.
 
